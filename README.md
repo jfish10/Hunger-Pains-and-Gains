@@ -1,2 +1,2 @@
 # J.Fisher
-Personal Resume Site - About, Projects, Contact
+Personal Resume Site - Home, About, Resume, Projects, Contact
