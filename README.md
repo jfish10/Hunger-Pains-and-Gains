@@ -1,2 +1,2 @@
 # Hunger-Pains-and-Gains
-Food and Travel Blog
+Personal Resume Site - About, Projects, Contact
