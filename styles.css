@@ -32,4 +32,25 @@ body {
       margin: 0 10px 10px;
 }
 
+h1,h2,h3 {
+      color: #ed7000;
+}
+.blog-post h2, .blog-post p {
+      margin-bottom: 10px
+}
+.blog-post em {
+      color: #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
       
