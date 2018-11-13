@@ -5,13 +5,13 @@
       padding: 0;
 }
 body {
-      background: #eee;
+      background: #fffafa;
       color: #333;
       font-family: Helvetica, Arial, sans-serif;
       font-size: 14px;
 }
 #c-header {
-      background:#2F4F4F;
+      background:#fffafa;
       color: #00bfff;
       padding: 30px;
       margin: 10px;
@@ -23,7 +23,7 @@ body {
       width: 700px;
 }
 #header, #footer {
-      background:#333;
+      background:#fffafa;
       color: #40E0D0;
       padding: 30px;
       margin: 10px;
@@ -37,7 +37,7 @@ body {
       font-size: 18px;
 }
 .blog-post {
-      background: #fff;
+      background: #fffafa;
       padding: 30px;
       margin: 0 10px 10px;
 }
