@@ -39,6 +39,7 @@ body {
 }
 #container {
       width: 700px;
+      text-align:center;
 }
 #header, #footer {
       background:#fffafa;
