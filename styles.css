@@ -21,7 +21,8 @@ body {
       margin-top: 5px;
       margin-left: 5px;
       text-align: center;
-      color: #f0ffff;
+      color: #00ced1;
+      background: #f0ffff
 }
 #container {
       width: 700px;
