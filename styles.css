@@ -13,6 +13,8 @@ body {
 .plinks {
       -webkit-font-smoothing: antialiased;
       text-rendering: optimizeeligibility;
+      margin: 30px
+           
 }
 #c-header {
       background:#fffafa;
