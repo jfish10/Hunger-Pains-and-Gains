@@ -42,6 +42,33 @@ body {
       margin: 0 auto;
   
 }
+form {
+      padding: 20px;
+      font-family: Helvetica, Arial, sans-serif;
+}
+form fieldset {
+      padding: 40 px;
+      border: solid 1px white;
+}
+form legend {
+      border: solid 1px #333;
+      padding: 5px;
+      font-size: 30px;
+      font-weight: bold;
+}
+form input, form textarea {
+      display: block;
+      margin-bottom: 20px;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizelegibility;
+}
+form input [type="text"], form input [type="email"], form textarea {
+      padding: 10px;
+      font-size: 20px;
+      font-family: Helvetica, Arial, sans-serif;
+      color: white;
+      border: solid 1px #b90707;
+}
 #container {
       width: 700px;
       text-align:center;
@@ -76,7 +103,7 @@ h1,h2,h3 {
       color: #ccc;
 }
 .plinks a:link {
-      color: gold;
+      color: red;
 }
 .plinks a: visited {
       color: #696969;
