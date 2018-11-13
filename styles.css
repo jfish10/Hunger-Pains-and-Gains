@@ -37,8 +37,10 @@ body {
       margin-left: 5px;
       color: #00ced1;
 }
-.form {
-      margin: 30px;
+#fcontainer {
+      width: 500 px;
+      margin: 0 auto;
+  
 }
 #container {
       width: 700px;
