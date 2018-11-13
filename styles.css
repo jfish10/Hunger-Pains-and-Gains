@@ -15,6 +15,7 @@ body {
       color: #00bfff;
       padding: 30px;
       margin: 10px;
+      text-align: center;
 }
 #cta {
       margin-top: 20px;
@@ -28,10 +29,10 @@ body {
       color: #40E0D0;
       padding: 30px;
       margin: 10px;
+      text-align:center;
 }
 
 #footer {
-      text-align: center;
       font-size: 12px;
 }
 .lead {
