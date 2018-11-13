@@ -24,18 +24,14 @@ body {
       text-align: center;
 }
 #cta {
-      margin-top: 5px;
-      margin-left: 5px;
       text-align: center;
       color: #00ced1;
       background: #f0ffff;
 }
-#options {
+#coptions {
       margin-top: 5px;
       margin-left: 5px;
-      text-align: center;
       color: #00ced1;
-      background: #f0ffff;
 }
 #container {
       width: 700px;
