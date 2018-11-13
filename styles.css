@@ -37,6 +37,9 @@ body {
       margin-left: 5px;
       color: #00ced1;
 }
+.form {
+      margin: 30px;
+}
 #container {
       width: 700px;
       text-align:center;
