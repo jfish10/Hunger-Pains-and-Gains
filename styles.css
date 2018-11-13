@@ -73,13 +73,13 @@ h1,h2,h3 {
 .blog-post em {
       color: #ccc;
 }
-a:hover {
+.plinks a:hover {
       color: gold;
 }
-a: visited {
+.plinks a: visited {
       color: #696969;
 }
-a:link {
+.plinks a:link {
       color: #4169e1
 }
 
