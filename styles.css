@@ -117,16 +117,24 @@ h1,h2,h3 {
       color: #ccc;
 }
  a:link {
-      color: red;
+      color:#f42aa6;
+      text-decoration:none;
 }
  a: visited {
-      color: #696969;
+      color:purple;
 }
  a:hover {
-      color: #4169e1;
+      color: #a50578;
+      text-decoratin: underline;
 }
  a:active {
-      color: #eee;
+      color: #000;
+}
+#main-link: hover {
+      background: #333;
+      color: white;
+      padding: 5px;
+      text-decoration: none;
 }
 
 
