@@ -108,6 +108,7 @@ form input [type="submit"] {
 
 h1,h2,h3 {
       color: #4169e1;
+      text-align: auto;
 }
 .blog-post h2, .blog-post p {
       margin-bottom: 10px
