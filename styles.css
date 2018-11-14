@@ -116,16 +116,16 @@ h1,h2,h3 {
 .blog-post em {
       color: #ccc;
 }
-.plinks a:link {
+ a:link {
       color: red;
 }
-.plinks a: visited {
+ a: visited {
       color: #696969;
 }
-.plinks a:hover {
+ a:hover {
       color: #4169e1;
 }
-.plinks a:active {
+ a:active {
       color: #eee;
 }
 
