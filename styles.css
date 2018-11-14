@@ -84,14 +84,14 @@ form input [type="submit"] {
 }
 #container {
       width: 700px;
-      text-align:center;
+      text-align:auto;
 }
 #header, #footer {
       background:#fffafa;
       color: #40E0D0;
       padding: 30px;
       margin: 10px;
-      text-align:center;
+      text-align:auto;
 }
 
 #footer {
